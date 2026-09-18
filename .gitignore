@@ -1,0 +1,14 @@
+# Maven
+chartapppart/target/
+**/target/
+
+# NetBeans
+chartapppart/nbproject/private/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Java build output
+*.class
